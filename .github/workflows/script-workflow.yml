@@ -17,7 +17,7 @@ jobs:
 
     # Define the environment variable for the entire job
     env:
-      REQUIRED_VAR: "workflow_value"
+      REQUIRED_VAR: ""
 
     steps:
       - name: Checkout repository code
